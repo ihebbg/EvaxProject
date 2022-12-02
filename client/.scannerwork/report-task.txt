@@ -1,0 +1,6 @@
+projectKey=EvaxProjectFront
+serverUrl=http://localhost:9000
+serverVersion=9.2.0.49834
+dashboardUrl=http://localhost:9000/dashboard?id=EvaxProjectFront
+ceTaskId=AX25tormxLSU-x_Bn4o4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX25tormxLSU-x_Bn4o4

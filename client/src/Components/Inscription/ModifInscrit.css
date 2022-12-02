@@ -1,0 +1,12 @@
+span{
+    font-weight: bold;
+}
+.Annuler{
+    background-color: grey;
+    color:white ;
+
+}
+.confirm{
+    background-color: #8B0000;
+    color:white ;
+}
